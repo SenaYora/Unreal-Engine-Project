@@ -1701,3 +1701,746 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.14-21.07.29:184][767]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2022.10.14-21.07.29:184][767]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
 [2022.10.14-21.07.29:184][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-21.09.46:333][ 47]LogDerivedDataCache: C:/Users/icima/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.011 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.14-22.09.46:450][837]LogDerivedDataCache: C:/Users/icima/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.008 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.14-22.10.16:205][112]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.12.56:501][660]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Character.BP_Character
+[2022.10.14-22.12.56:506][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.13.29:862][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Character" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Character.uasset" SILENT=true
+[2022.10.14-22.13.29:874][622]LogSavePackage: Moving output files for package: /Game/Cube/BP_Character
+[2022.10.14-22.13.29:874][622]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Character5B76A6664EE6A45B78D522B9399CCA4D.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Character.uasset'
+[2022.10.14-22.13.29:893][622]AssetCheck: New page: Asset Save: BP_Character
+[2022.10.14-22.13.29:893][622]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Character.BP_Character
+[2022.10.14-22.13.32:912][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.13.32:918][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.13.32:918][802]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:13:32)
+[2022.10.14-22.13.32:918][802]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.13.32:921][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002569s)
+[2022.10.14-22.13.32:921][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002651s)
+[2022.10.14-22.13.32:921][802]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.13.32:921][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.13.32:922][802]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.13.32:922][802]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2022.10.14-22.13.32:957][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.14-22.13.32:959][802]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.13.32:959][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.13.32:959][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.13.32:960][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.13.32:960][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.13.32:960][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.13.32:962][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.13.33:001][802]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.13.33:001][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.13.33:002][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.13.33:002][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.13.33:003][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.10.14-22.13.33:003][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.10.14-22.13.33:005][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.10.14-22.13.33:005][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.10.14-22.13.33:005][802]LogInit: FAudioDevice initialized.
+[2022.10.14-22.13.33:005][802]LogAudio: Display: Audio Device (ID: 18) registered with world 'level1'.
+[2022.10.14-22.13.33:018][802]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.13.33:019][802]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.13.33
+[2022.10.14-22.13.33:019][802]LogWorld: Bringing up level for play took: 0.001011
+[2022.10.14-22.13.33:022][802]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.10.14-22.13.33:024][802]PIE: Server logged in
+[2022.10.14-22.13.33:024][802]PIE: Play in editor total start time 0,107 seconds.
+[2022.10.14-22.13.48:515][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.13.48:515][726]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.13.48:515][726]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.13.48:516][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.13.48:535][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.13.48:539][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.13.48:571][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-22.13.48:571][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.14-22.13.48:572][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.10.14-22.13.48:576][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.13.48:582][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.14-22.13.48:640][727]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.10.14-22.20.18:588][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.20.18:593][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.20.18:593][350]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:20:18)
+[2022.10.14-22.20.18:614][350]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.20.18:616][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002302s)
+[2022.10.14-22.20.18:616][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002396s)
+[2022.10.14-22.20.18:617][350]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.20.18:617][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.20.18:617][350]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.20.18:617][350]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2022.10.14-22.20.18:649][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.14-22.20.18:652][350]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.20.18:653][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.20.18:653][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.20.18:653][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.20.18:653][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.20.18:653][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.20.18:656][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.20.18:700][350]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.20.18:700][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.20.18:700][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.20.18:700][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.20.18:701][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.10.14-22.20.18:701][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.10.14-22.20.18:702][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.10.14-22.20.18:702][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.10.14-22.20.18:702][350]LogInit: FAudioDevice initialized.
+[2022.10.14-22.20.18:702][350]LogAudio: Display: Audio Device (ID: 19) registered with world 'level1'.
+[2022.10.14-22.20.18:716][350]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.20.18:717][350]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.20.18
+[2022.10.14-22.20.18:717][350]LogWorld: Bringing up level for play took: 0.000784
+[2022.10.14-22.20.18:719][350]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.10.14-22.20.18:720][350]PIE: Server logged in
+[2022.10.14-22.20.18:721][350]PIE: Play in editor total start time 0,128 seconds.
+[2022.10.14-22.20.21:025][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.20.21:025][483]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.20.21:025][483]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.20.21:025][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.20.21:046][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.20.21:050][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.20.21:077][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.20.21:077][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.14-22.20.21:079][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.10.14-22.20.21:088][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.10.14-22.20.21:138][484]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.10.14-22.20.22:862][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.20.22:868][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.20.22:868][584]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:20:22)
+[2022.10.14-22.20.22:868][584]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.20.22:871][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002472s)
+[2022.10.14-22.20.22:871][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002569s)
+[2022.10.14-22.20.22:871][584]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.20.22:871][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.20.22:871][584]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.20.22:872][584]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2022.10.14-22.20.22:899][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.10.14-22.20.22:901][584]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.20.22:901][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.20.22:901][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.20.22:902][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.20.22:902][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.20.22:902][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.20.22:904][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.20.22:946][584]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.20.22:946][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.20.22:946][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.20.22:946][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.20.22:947][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.10.14-22.20.22:947][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.10.14-22.20.22:949][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.10.14-22.20.22:949][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.10.14-22.20.22:949][584]LogInit: FAudioDevice initialized.
+[2022.10.14-22.20.22:949][584]LogAudio: Display: Audio Device (ID: 20) registered with world 'level1'.
+[2022.10.14-22.20.22:958][584]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.20.22:959][584]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.20.22
+[2022.10.14-22.20.22:960][584]LogWorld: Bringing up level for play took: 0.001499
+[2022.10.14-22.20.22:962][584]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.10.14-22.20.22:963][584]PIE: Server logged in
+[2022.10.14-22.20.22:964][584]PIE: Play in editor total start time 0,096 seconds.
+[2022.10.14-22.20.28:586][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.20.28:586][917]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.20.28:586][917]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.20.28:586][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.20.28:599][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.20.28:602][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.20.28:634][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.20.28:635][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.14-22.20.28:636][917]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.10.14-22.20.28:642][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.14-22.20.28:686][918]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.10.14-22.20.30:837][ 43]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.20.41:069][634]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.20.41:075][634]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.20.41:075][634]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:20:41)
+[2022.10.14-22.20.41:124][634]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.20.41:127][634]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2022.10.14-22.20.41:127][634]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002937s)
+[2022.10.14-22.20.41:127][634]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.20.41:127][634]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.20.41:128][634]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.20.41:128][634]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2022.10.14-22.20.41:156][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.14-22.20.41:158][634]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.20.41:158][634]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.20.41:159][634]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.20.41:159][634]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.20.41:159][634]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.20.41:159][634]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.20.41:159][634]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.20.41:161][634]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.20.41:203][634]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.20.41:203][634]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.20.41:203][634]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.20.41:203][634]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.20.41:204][634]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.10.14-22.20.41:204][634]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.10.14-22.20.41:206][634]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.10.14-22.20.41:206][634]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.10.14-22.20.41:206][634]LogInit: FAudioDevice initialized.
+[2022.10.14-22.20.41:206][634]LogAudio: Display: Audio Device (ID: 21) registered with world 'level1'.
+[2022.10.14-22.20.41:220][634]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.20.41:221][634]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.20.41
+[2022.10.14-22.20.41:221][634]LogWorld: Bringing up level for play took: 0.000611
+[2022.10.14-22.20.41:222][634]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.10.14-22.20.41:224][634]PIE: Server logged in
+[2022.10.14-22.20.41:224][634]PIE: Play in editor total start time 0,15 seconds.
+[2022.10.14-22.21.23:495][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.21.23:495][162]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.21.23:496][162]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.21.23:498][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.21.23:509][162]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.21.23:513][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.21.23:545][162]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-22.21.23:545][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.14-22.21.23:547][162]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.10.14-22.21.23:550][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.21.23:557][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.10.14-22.21.23:595][163]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.14-22.21.23:603][163]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.21.28:656][457]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.21.28:656][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.21.31:446][596]LogViewport: Scene viewport resized to 1033x699, mode Windowed.
+[2022.10.14-22.23.11:206][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.14-22.23.11:215][858]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/level1_Auto2
+[2022.10.14-22.23.11:217][858]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1_Auto2CA164F6B46E1EBD36277A68809C69859.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/Autosaves/Game/ThirdPerson/Maps/level1_Auto2.umap'
+[2022.10.14-22.23.11:224][858]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/level1' took 0.051
+[2022.10.14-22.23.11:224][858]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2022.10.14-22.33.14:713][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.14-22.33.14:714][ 56]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/level1' took 0.036
+[2022.10.14-22.33.14:715][ 56]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Cube/BP_Ground] ([2] browsable assets)...
+[2022.10.14-22.33.14:736][ 56]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube/BP_Ground.BP_Ground]
+[2022.10.14-22.33.14:736][ 56]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube/BP_Ground]
+[2022.10.14-22.33.14:748][ 56]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube/BP_Ground_Auto3
+[2022.10.14-22.33.14:748][ 56]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground_Auto3ACA8BF174D088C992CE6158B6DD0B2E7.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/Autosaves/Game/Cube/BP_Ground_Auto3.uasset'
+[2022.10.14-22.33.14:749][ 56]LogFileHelpers: Auto-saving content packages took 0.035
+[2022.10.14-22.38.25:385][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.38.25:398][792]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.38.25:399][792]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground4AB612A841890B701A90EFADDF64398D.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.38.25:413][792]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.38.25:413][792]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.38.26:643][862]BlueprintLog: New page: Compile BP_Ground
+[2022.10.14-22.38.26:713][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.14-22.38.31:981][172]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.38.31:986][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.38.31:986][172]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:38:31)
+[2022.10.14-22.38.31:986][172]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.38.31:989][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002232s)
+[2022.10.14-22.38.31:989][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002303s)
+[2022.10.14-22.38.31:989][172]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.38.31:989][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.38.31:989][172]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.38.31:990][172]LogPlayLevel: PIE: World Init took: (0.000990s)
+[2022.10.14-22.38.32:024][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.14-22.38.32:026][172]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.38.32:026][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.38.32:026][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.38.32:027][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.38.32:027][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.38.32:027][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.38.32:029][172]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.38.32:073][172]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.38.32:074][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.38.32:074][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.38.32:074][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.38.32:075][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.10.14-22.38.32:075][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.10.14-22.38.32:076][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.10.14-22.38.32:076][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.10.14-22.38.32:077][172]LogInit: FAudioDevice initialized.
+[2022.10.14-22.38.32:077][172]LogAudio: Display: Audio Device (ID: 22) registered with world 'level1'.
+[2022.10.14-22.38.32:091][172]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.38.32:091][172]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.38.32
+[2022.10.14-22.38.32:091][172]LogWorld: Bringing up level for play took: 0.000642
+[2022.10.14-22.38.32:093][172]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2022.10.14-22.38.32:094][172]PIE: Server logged in
+[2022.10.14-22.38.32:095][172]PIE: Play in editor total start time 0,109 seconds.
+[2022.10.14-22.38.38:014][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.38.38:014][500]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.38.38:015][500]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.38.38:015][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.38.38:031][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.38.38:035][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.38.38:067][500]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.14-22.38.38:068][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.14-22.38.38:070][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.10.14-22.38.38:073][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.38.38:077][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.14-22.38.38:131][501]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.10.14-22.38.38:138][501]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.38.38:691][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.38.38:697][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.38.38:698][530]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:38:38)
+[2022.10.14-22.38.38:698][530]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.38.38:700][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002146s)
+[2022.10.14-22.38.38:700][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002213s)
+[2022.10.14-22.38.38:700][530]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.38.38:700][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.38.38:701][530]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.38.38:701][530]LogPlayLevel: PIE: World Init took: (0.000634s)
+[2022.10.14-22.38.38:736][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.14-22.38.38:738][530]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.38.38:738][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.38.38:738][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.38.38:738][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.38.38:738][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.38.38:738][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.38.38:740][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.38.38:783][530]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.38.38:783][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.38.38:783][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.38.38:783][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.38.38:783][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2022.10.14-22.38.38:783][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2022.10.14-22.38.38:785][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2022.10.14-22.38.38:785][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2022.10.14-22.38.38:785][530]LogInit: FAudioDevice initialized.
+[2022.10.14-22.38.38:785][530]LogAudio: Display: Audio Device (ID: 23) registered with world 'level1'.
+[2022.10.14-22.38.38:800][530]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.38.38:801][530]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.38.38
+[2022.10.14-22.38.38:801][530]LogWorld: Bringing up level for play took: 0.000794
+[2022.10.14-22.38.38:803][530]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.10.14-22.38.38:804][530]PIE: Server logged in
+[2022.10.14-22.38.38:805][530]PIE: Play in editor total start time 0,107 seconds.
+[2022.10.14-22.38.41:795][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.38.41:795][703]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.38.41:795][703]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.38.41:796][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.38.41:819][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.38.41:825][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.38.41:858][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.38.41:858][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.14-22.38.41:860][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2022.10.14-22.38.41:867][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.14-22.38.41:917][704]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.14-22.38.41:925][704]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.39.09:450][175]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/fr//Engine/Blueprints/UserGuide/FlowControl/index.html?utm_source=editor&utm_medium=docs&utm_campaign=rightclick_bpnode#forloop
+[2022.10.14-22.40.33:593][763]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.40.33:599][763]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.14-22.40.33:600][763]LogPlayLevel: [PlayLevel] Compiling BP_Ground before play...
+[2022.10.14-22.40.33:681][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.14-22.40.33:682][763]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2022.10.14-22.40.33:682][763]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:40:33)
+[2022.10.14-22.40.33:682][763]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.40.33:685][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002051s)
+[2022.10.14-22.40.33:685][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002113s)
+[2022.10.14-22.40.33:685][763]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.40.33:685][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.40.33:685][763]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.40.33:685][763]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2022.10.14-22.40.33:721][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.14-22.40.33:721][763]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.10.14-22.40.33:721][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.40.33:722][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.40.33:722][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.40.33:722][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.40.33:722][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.40.33:722][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.40.33:724][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.40.33:767][763]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.40.33:767][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.40.33:767][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.40.33:767][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.40.33:768][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2022.10.14-22.40.33:768][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2022.10.14-22.40.33:770][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2022.10.14-22.40.33:770][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2022.10.14-22.40.33:770][763]LogInit: FAudioDevice initialized.
+[2022.10.14-22.40.33:770][763]LogAudio: Display: Audio Device (ID: 24) registered with world 'level1'.
+[2022.10.14-22.40.33:790][763]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.40.33:791][763]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.40.33
+[2022.10.14-22.40.33:792][763]LogWorld: Bringing up level for play took: 0.001440
+[2022.10.14-22.40.33:793][763]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.10.14-22.40.33:795][763]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.33:795][763]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.33:795][763]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.33:795][763]PIE: Server logged in
+[2022.10.14-22.40.33:797][763]PIE: Play in editor total start time 0,198 seconds.
+[2022.10.14-22.40.33:925][764]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.33:925][764]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.33:925][764]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:124][776]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:124][776]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:124][776]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:324][788]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:324][788]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:324][788]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:526][800]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:526][800]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:526][800]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:727][812]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:727][812]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:727][812]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:941][823]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:941][823]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.34:941][823]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:140][835]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:140][835]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:140][835]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:340][847]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:340][847]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:340][847]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:543][858]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:543][858]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:543][858]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:742][870]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:742][870]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:742][870]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:945][882]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:945][882]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.35:945][882]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:143][894]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:143][894]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:143][894]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:342][906]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:343][906]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:343][906]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:552][918]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:552][918]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:552][918]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:752][930]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:752][930]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:752][930]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:952][942]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:953][942]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.36:953][942]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:154][954]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:154][954]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:154][954]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:353][966]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:353][966]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:353][966]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:562][978]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:562][978]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:562][978]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:765][990]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:765][990]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:765][990]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.37:874][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.40.37:874][995]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.40.37:875][995]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.40.37:875][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.40.37:891][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.40.37:895][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.40.37:928][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.40.37:929][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.14-22.40.37:930][995]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2022.10.14-22.40.37:936][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.14-22.40.37:990][996]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.10.14-22.40.37:997][996]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.40.39:591][ 86]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.14-22.40.39:596][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.14-22.40.39:596][ 86]PIE: New page: PIE session: level1 (15 oct. 2022 à 02:40:39)
+[2022.10.14-22.40.39:596][ 86]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.40.39:598][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2022.10.14-22.40.39:598][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002040s)
+[2022.10.14-22.40.39:598][ 86]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.14-22.40.39:598][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.14-22.40.39:599][ 86]LogAIModule: Creating AISystem for world level1
+[2022.10.14-22.40.39:599][ 86]LogPlayLevel: PIE: World Init took: (0.000666s)
+[2022.10.14-22.40.39:633][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.10.14-22.40.39:635][ 86]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.14-22.40.39:635][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.14-22.40.39:635][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.14-22.40.39:635][ 86]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.14-22.40.39:635][ 86]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.14-22.40.39:635][ 86]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.14-22.40.39:637][ 86]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.14-22.40.39:680][ 86]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.14-22.40.39:680][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.14-22.40.39:680][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.14-22.40.39:680][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.14-22.40.39:681][ 86]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2022.10.14-22.40.39:681][ 86]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2022.10.14-22.40.39:683][ 86]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2022.10.14-22.40.39:683][ 86]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2022.10.14-22.40.39:683][ 86]LogInit: FAudioDevice initialized.
+[2022.10.14-22.40.39:683][ 86]LogAudio: Display: Audio Device (ID: 25) registered with world 'level1'.
+[2022.10.14-22.40.39:694][ 86]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.14-22.40.39:695][ 86]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-00.40.39
+[2022.10.14-22.40.39:695][ 86]LogWorld: Bringing up level for play took: 0.000664
+[2022.10.14-22.40.39:697][ 86]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2022.10.14-22.40.39:697][ 86]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:697][ 86]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:697][ 86]LogBlueprintUserMessages: [BP_Ground_C_1] Translation: X=6000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:698][ 86]PIE: Server logged in
+[2022.10.14-22.40.39:698][ 86]PIE: Play in editor total start time 0,102 seconds.
+[2022.10.14-22.40.39:794][ 87]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:794][ 87]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:794][ 87]LogBlueprintUserMessages: [BP_Ground_C_0] Translation: X=8000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:994][ 99]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:994][ 99]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.39:994][ 99]LogBlueprintUserMessages: [BP_Ground_C_2] Translation: X=10000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:194][111]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:194][111]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:194][111]LogBlueprintUserMessages: [BP_Ground_C_3] Translation: X=12000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:394][123]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:394][123]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:394][123]LogBlueprintUserMessages: [BP_Ground_C_4] Translation: X=14000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:594][135]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:594][135]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:594][135]LogBlueprintUserMessages: [BP_Ground_C_5] Translation: X=16000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:795][147]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:795][147]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:795][147]LogBlueprintUserMessages: [BP_Ground_C_6] Translation: X=18000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:994][159]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:994][159]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.40:994][159]LogBlueprintUserMessages: [BP_Ground_C_7] Translation: X=20000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:194][171]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:194][171]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:194][171]LogBlueprintUserMessages: [BP_Ground_C_8] Translation: X=22000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:394][183]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:395][183]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:395][183]LogBlueprintUserMessages: [BP_Ground_C_9] Translation: X=24000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:594][195]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:594][195]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:594][195]LogBlueprintUserMessages: [BP_Ground_C_10] Translation: X=26000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:794][207]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:794][207]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:794][207]LogBlueprintUserMessages: [BP_Ground_C_11] Translation: X=28000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:994][219]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:994][219]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.41:994][219]LogBlueprintUserMessages: [BP_Ground_C_12] Translation: X=30000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:194][231]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:195][231]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:195][231]LogBlueprintUserMessages: [BP_Ground_C_13] Translation: X=32000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:394][243]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:394][243]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:394][243]LogBlueprintUserMessages: [BP_Ground_C_14] Translation: X=34000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:594][255]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:594][255]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:594][255]LogBlueprintUserMessages: [BP_Ground_C_15] Translation: X=36000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:794][267]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:794][267]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:794][267]LogBlueprintUserMessages: [BP_Ground_C_16] Translation: X=38000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:994][279]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:994][279]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.42:994][279]LogBlueprintUserMessages: [BP_Ground_C_17] Translation: X=40000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:195][291]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:195][291]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:195][291]LogBlueprintUserMessages: [BP_Ground_C_18] Translation: X=42000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:395][303]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:395][303]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:395][303]LogBlueprintUserMessages: [BP_Ground_C_19] Translation: X=44000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:594][315]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:595][315]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:595][315]LogBlueprintUserMessages: [BP_Ground_C_20] Translation: X=46000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:794][327]LogBlueprintUserMessages: [BP_Ground_C_21] Translation: X=48000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:794][327]LogBlueprintUserMessages: [BP_Ground_C_21] Translation: X=48000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:794][327]LogBlueprintUserMessages: [BP_Ground_C_21] Translation: X=48000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:994][339]LogBlueprintUserMessages: [BP_Ground_C_22] Translation: X=50000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:995][339]LogBlueprintUserMessages: [BP_Ground_C_22] Translation: X=50000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.43:995][339]LogBlueprintUserMessages: [BP_Ground_C_22] Translation: X=50000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:195][351]LogBlueprintUserMessages: [BP_Ground_C_23] Translation: X=52000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:195][351]LogBlueprintUserMessages: [BP_Ground_C_23] Translation: X=52000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:195][351]LogBlueprintUserMessages: [BP_Ground_C_23] Translation: X=52000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:394][363]LogBlueprintUserMessages: [BP_Ground_C_24] Translation: X=54000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:394][363]LogBlueprintUserMessages: [BP_Ground_C_24] Translation: X=54000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:394][363]LogBlueprintUserMessages: [BP_Ground_C_24] Translation: X=54000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:594][375]LogBlueprintUserMessages: [BP_Ground_C_25] Translation: X=56000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:594][375]LogBlueprintUserMessages: [BP_Ground_C_25] Translation: X=56000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:594][375]LogBlueprintUserMessages: [BP_Ground_C_25] Translation: X=56000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:794][387]LogBlueprintUserMessages: [BP_Ground_C_26] Translation: X=58000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:794][387]LogBlueprintUserMessages: [BP_Ground_C_26] Translation: X=58000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:794][387]LogBlueprintUserMessages: [BP_Ground_C_26] Translation: X=58000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:994][399]LogBlueprintUserMessages: [BP_Ground_C_27] Translation: X=60000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:994][399]LogBlueprintUserMessages: [BP_Ground_C_27] Translation: X=60000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.44:994][399]LogBlueprintUserMessages: [BP_Ground_C_27] Translation: X=60000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:195][411]LogBlueprintUserMessages: [BP_Ground_C_28] Translation: X=62000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:195][411]LogBlueprintUserMessages: [BP_Ground_C_28] Translation: X=62000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:195][411]LogBlueprintUserMessages: [BP_Ground_C_28] Translation: X=62000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:394][423]LogBlueprintUserMessages: [BP_Ground_C_29] Translation: X=64000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:394][423]LogBlueprintUserMessages: [BP_Ground_C_29] Translation: X=64000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:394][423]LogBlueprintUserMessages: [BP_Ground_C_29] Translation: X=64000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:594][435]LogBlueprintUserMessages: [BP_Ground_C_30] Translation: X=66000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:595][435]LogBlueprintUserMessages: [BP_Ground_C_30] Translation: X=66000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:595][435]LogBlueprintUserMessages: [BP_Ground_C_30] Translation: X=66000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:795][447]LogBlueprintUserMessages: [BP_Ground_C_31] Translation: X=68000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:795][447]LogBlueprintUserMessages: [BP_Ground_C_31] Translation: X=68000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:795][447]LogBlueprintUserMessages: [BP_Ground_C_31] Translation: X=68000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:994][459]LogBlueprintUserMessages: [BP_Ground_C_32] Translation: X=70000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:994][459]LogBlueprintUserMessages: [BP_Ground_C_32] Translation: X=70000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.45:994][459]LogBlueprintUserMessages: [BP_Ground_C_32] Translation: X=70000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:194][471]LogBlueprintUserMessages: [BP_Ground_C_33] Translation: X=72000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:194][471]LogBlueprintUserMessages: [BP_Ground_C_33] Translation: X=72000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:194][471]LogBlueprintUserMessages: [BP_Ground_C_33] Translation: X=72000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:394][483]LogBlueprintUserMessages: [BP_Ground_C_34] Translation: X=74000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:394][483]LogBlueprintUserMessages: [BP_Ground_C_34] Translation: X=74000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:394][483]LogBlueprintUserMessages: [BP_Ground_C_34] Translation: X=74000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:594][495]LogBlueprintUserMessages: [BP_Ground_C_35] Translation: X=76000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:594][495]LogBlueprintUserMessages: [BP_Ground_C_35] Translation: X=76000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:594][495]LogBlueprintUserMessages: [BP_Ground_C_35] Translation: X=76000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:794][507]LogBlueprintUserMessages: [BP_Ground_C_36] Translation: X=78000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:794][507]LogBlueprintUserMessages: [BP_Ground_C_36] Translation: X=78000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:794][507]LogBlueprintUserMessages: [BP_Ground_C_36] Translation: X=78000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:994][519]LogBlueprintUserMessages: [BP_Ground_C_37] Translation: X=80000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:994][519]LogBlueprintUserMessages: [BP_Ground_C_37] Translation: X=80000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.46:994][519]LogBlueprintUserMessages: [BP_Ground_C_37] Translation: X=80000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:195][531]LogBlueprintUserMessages: [BP_Ground_C_38] Translation: X=82000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:195][531]LogBlueprintUserMessages: [BP_Ground_C_38] Translation: X=82000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:195][531]LogBlueprintUserMessages: [BP_Ground_C_38] Translation: X=82000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:394][543]LogBlueprintUserMessages: [BP_Ground_C_39] Translation: X=84000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:394][543]LogBlueprintUserMessages: [BP_Ground_C_39] Translation: X=84000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:394][543]LogBlueprintUserMessages: [BP_Ground_C_39] Translation: X=84000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:595][555]LogBlueprintUserMessages: [BP_Ground_C_40] Translation: X=86000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:595][555]LogBlueprintUserMessages: [BP_Ground_C_40] Translation: X=86000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:595][555]LogBlueprintUserMessages: [BP_Ground_C_40] Translation: X=86000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:795][567]LogBlueprintUserMessages: [BP_Ground_C_41] Translation: X=88000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:795][567]LogBlueprintUserMessages: [BP_Ground_C_41] Translation: X=88000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:795][567]LogBlueprintUserMessages: [BP_Ground_C_41] Translation: X=88000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:995][579]LogBlueprintUserMessages: [BP_Ground_C_42] Translation: X=90000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:995][579]LogBlueprintUserMessages: [BP_Ground_C_42] Translation: X=90000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.47:995][579]LogBlueprintUserMessages: [BP_Ground_C_42] Translation: X=90000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:194][591]LogBlueprintUserMessages: [BP_Ground_C_43] Translation: X=92000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:194][591]LogBlueprintUserMessages: [BP_Ground_C_43] Translation: X=92000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:194][591]LogBlueprintUserMessages: [BP_Ground_C_43] Translation: X=92000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:395][603]LogBlueprintUserMessages: [BP_Ground_C_44] Translation: X=94000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:395][603]LogBlueprintUserMessages: [BP_Ground_C_44] Translation: X=94000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:395][603]LogBlueprintUserMessages: [BP_Ground_C_44] Translation: X=94000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:595][615]LogBlueprintUserMessages: [BP_Ground_C_45] Translation: X=96000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:595][615]LogBlueprintUserMessages: [BP_Ground_C_45] Translation: X=96000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:595][615]LogBlueprintUserMessages: [BP_Ground_C_45] Translation: X=96000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:795][627]LogBlueprintUserMessages: [BP_Ground_C_46] Translation: X=98000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:795][627]LogBlueprintUserMessages: [BP_Ground_C_46] Translation: X=98000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:795][627]LogBlueprintUserMessages: [BP_Ground_C_46] Translation: X=98000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:995][639]LogBlueprintUserMessages: [BP_Ground_C_47] Translation: X=100000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:995][639]LogBlueprintUserMessages: [BP_Ground_C_47] Translation: X=100000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.48:995][639]LogBlueprintUserMessages: [BP_Ground_C_47] Translation: X=100000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:194][651]LogBlueprintUserMessages: [BP_Ground_C_48] Translation: X=102000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:194][651]LogBlueprintUserMessages: [BP_Ground_C_48] Translation: X=102000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:194][651]LogBlueprintUserMessages: [BP_Ground_C_48] Translation: X=102000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:394][663]LogBlueprintUserMessages: [BP_Ground_C_49] Translation: X=104000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:394][663]LogBlueprintUserMessages: [BP_Ground_C_49] Translation: X=104000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:394][663]LogBlueprintUserMessages: [BP_Ground_C_49] Translation: X=104000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:595][675]LogBlueprintUserMessages: [BP_Ground_C_50] Translation: X=106000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:595][675]LogBlueprintUserMessages: [BP_Ground_C_50] Translation: X=106000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:595][675]LogBlueprintUserMessages: [BP_Ground_C_50] Translation: X=106000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:794][687]LogBlueprintUserMessages: [BP_Ground_C_51] Translation: X=108000.000 Y=0.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:794][687]LogBlueprintUserMessages: [BP_Ground_C_51] Translation: X=108000.000 Y=650.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:794][687]LogBlueprintUserMessages: [BP_Ground_C_51] Translation: X=108000.000 Y=-770.000 Z=0.000 Rotation: P=0.000000 Y=0.000000 R=-0.000000 Scale X=1.000 Y=1.000 Z=1.000
+[2022.10.14-22.40.49:984][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.40.49:985][696]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.14-22.40.49:985][696]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.14-22.40.49:985][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.40.50:006][696]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.14-22.40.50:010][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.14-22.40.50:044][696]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.14-22.40.50:044][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.14-22.40.50:046][696]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2022.10.14-22.40.50:052][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.14-22.40.50:091][697]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.10.14-22.40.50:100][697]LogViewport: Scene viewport resized to 481x288, mode Windowed.
+[2022.10.14-22.41.03:277][379]LogEditorTransaction: Undo Create Pin Link
+[2022.10.14-22.41.03:739][394]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.04:351][424]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.04:796][447]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.05:313][474]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.06:324][530]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.06:793][555]LogEditorTransaction: Undo Create Pin Link
+[2022.10.14-22.41.07:505][594]LogEditorTransaction: Undo Move Node
+[2022.10.14-22.41.08:256][636]LogEditorTransaction: Undo Add Node
+[2022.10.14-22.42.42:877][900]LogSlate: Window 'Set Spawn Points' being destroyed
+[2022.10.14-22.42.47:262][161]LogEditorTransaction: Undo Break Pin Links
+[2022.10.14-22.42.48:634][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.42.48:647][227]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.42.48:648][227]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_GroundFC3E4E24465A14E9D61C6CAE6626B428.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.42.48:662][227]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.42.48:662][227]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.44.56:361][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.14-22.44.56:370][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/level1_Auto4
+[2022.10.14-22.44.56:371][362]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1_Auto4BFEEAC704F1B423DF32D47A305C00681.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/Autosaves/Game/ThirdPerson/Maps/level1_Auto4.umap'
+[2022.10.14-22.44.56:377][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/level1' took 0.051
+[2022.10.14-22.44.56:377][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2022.10.14-22.44.56:377][362]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube/BP_Ground] ([2] browsable assets)...
+[2022.10.14-22.44.56:377][362]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube/BP_Ground]
+[2022.10.14-22.44.56:389][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Cube/BP_Ground_Auto4
+[2022.10.14-22.44.56:389][362]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground_Auto4D80541F541FFBF9C28B4FAAC73DBACBC.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/Autosaves/Game/Cube/BP_Ground_Auto4.uasset'
+[2022.10.14-22.44.56:390][362]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.10.14-22.47.28:196][534]LogEditorTransaction: Undo Modify Component(s)
+[2022.10.14-22.47.47:265][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.47.47:279][408]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.47.47:279][408]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground88C4012446241C5E0DCB1EA7B9A68561.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.47.47:294][408]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.47.47:294][408]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.47.49:517][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.10.14-22.47.49:528][514]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.14-22.47.49:528][514]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1B89AD6EC45196BDC97C767844D8B4578.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.14-22.47.49:552][514]AssetCheck: New page: Asset Save: level1
+[2022.10.14-22.47.49:552][514]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.14-22.47.50:164][545]BlueprintLog: New page: Compile BP_Ground
+[2022.10.14-22.47.50:230][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.10.14-22.48.18:109][157]LogEditorTransaction: Undo Paste clipboard contents
+[2022.10.14-22.50.23:327][560]LogEditorTransaction: Undo Create Pin Link
+[2022.10.14-22.50.31:415][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.50.31:429][ 27]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.50.31:430][ 27]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground7F4DD7A14CCB35E18A67A6A8574D4223.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.50.31:443][ 27]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.50.31:444][ 27]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.51.25:565][201]LogEditorTransaction: Undo Add Node
+[2022.10.14-22.51.30:756][497]LogEditorTransaction: Undo Add Component Nodes
+[2022.10.14-22.53.07:979][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.53.07:996][188]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.53.07:997][188]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_GroundF5C848934DCB890E027D0ABA18E7CE8C.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.53.08:011][188]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.53.08:011][188]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.54.14:381][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.54.14:397][444]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.54.14:397][444]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_GroundB49211114A5192E7B3ED5A99E6B3AAFD.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.54.14:409][444]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.54.14:409][444]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.55.01:602][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.55.01:618][675]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.55.01:619][675]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_Ground1B94182D4A3730885C9F7784007117CF.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.55.01:631][675]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.55.01:631][675]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.55.08:616][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.14-22.55.08:632][791]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.14-22.55.08:633][791]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_GroundA5B5DDB3476813DF47D2699614A11577.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.14-22.55.08:647][791]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.14-22.55.08:647][791]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.14-22.55.09:927][868]BlueprintLog: New page: Compile BP_Ground
+[2022.10.14-22.55.10:016][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms

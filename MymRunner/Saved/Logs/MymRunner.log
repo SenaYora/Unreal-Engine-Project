@@ -4028,3 +4028,1148 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.15-11.40.43:697][888]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level121C8D9234467ECE6075157AA88D0071C.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
 [2022.10.15-11.40.43:719][888]AssetCheck: New page: Asset Save: level1
 [2022.10.15-11.40.43:719][888]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.48.48:755][583]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.48.48:761][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.48.48:762][583]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:48:48)
+[2022.10.15-11.48.48:762][583]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.48.48:765][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003255s)
+[2022.10.15-11.48.48:765][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003330s)
+[2022.10.15-11.48.48:765][583]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.48.48:765][583]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.48.48:766][583]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.48.48:766][583]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2022.10.15-11.48.48:805][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.15-11.48.48:808][583]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.48.48:808][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.48.48:808][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.48.48:809][583]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.48.48:809][583]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.48.48:809][583]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.48.48:811][583]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.48.48:854][583]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.48.48:855][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.48.48:855][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.48.48:855][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.48.48:855][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.10.15-11.48.48:855][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.10.15-11.48.48:857][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.10.15-11.48.48:857][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.10.15-11.48.48:857][583]LogInit: FAudioDevice initialized.
+[2022.10.15-11.48.48:857][583]LogAudio: Display: Audio Device (ID: 30) registered with world 'level1'.
+[2022.10.15-11.48.48:872][583]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.48.48:872][583]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.48.48
+[2022.10.15-11.48.48:873][583]LogWorld: Bringing up level for play took: 0.000980
+[2022.10.15-11.48.48:874][583]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2022.10.15-11.48.48:876][583]PIE: Server logged in
+[2022.10.15-11.48.48:877][583]PIE: Play in editor total start time 0,116 seconds.
+[2022.10.15-11.48.51:719][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:719][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:720][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:720][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:736][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:736][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:736][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:753][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.51:769][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.53:084][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.53:084][831]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.48.53:084][831]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.48.53:084][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.48.53:096][831]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.48.53:101][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.48.53:136][831]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.48.53:136][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.15-11.48.53:137][831]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.15-11.48.53:140][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.53:144][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.10.15-11.48.53:180][832]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.15-11.48.55:187][949]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.48.55:194][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.48.55:194][949]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:48:55)
+[2022.10.15-11.48.55:233][949]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.48.55:236][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002850s)
+[2022.10.15-11.48.55:236][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002965s)
+[2022.10.15-11.48.55:236][949]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.48.55:236][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.48.55:237][949]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.48.55:237][949]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2022.10.15-11.48.55:271][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.15-11.48.55:274][949]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.48.55:274][949]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.48.55:274][949]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.48.55:274][949]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.48.55:275][949]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.48.55:275][949]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.48.55:277][949]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.48.55:320][949]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.48.55:321][949]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.48.55:321][949]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.48.55:321][949]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.48.55:321][949]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.10.15-11.48.55:321][949]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.10.15-11.48.55:323][949]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.10.15-11.48.55:323][949]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.10.15-11.48.55:323][949]LogInit: FAudioDevice initialized.
+[2022.10.15-11.48.55:323][949]LogAudio: Display: Audio Device (ID: 31) registered with world 'level1'.
+[2022.10.15-11.48.55:334][949]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.48.55:335][949]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.48.55
+[2022.10.15-11.48.55:335][949]LogWorld: Bringing up level for play took: 0.000886
+[2022.10.15-11.48.55:337][949]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.10.15-11.48.55:338][949]PIE: Server logged in
+[2022.10.15-11.48.55:339][949]PIE: Play in editor total start time 0,145 seconds.
+[2022.10.15-11.48.59:294][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:295][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:295][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:295][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:312][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:328][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:344][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:361][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:378][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:461][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:528][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:595][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:644][204]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:661][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:677][206]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:694][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:711][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:727][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:744][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:811][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:844][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:928][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:993][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.48.59:993][222]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.48.59:994][222]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.48.59:994][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.00:005][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.49.00:010][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.00:049][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.00:050][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.15-11.49.00:051][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.15-11.49.00:055][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.00:058][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.15-11.49.00:107][223]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.10.15-11.49.01:617][311]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.49.01:623][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.49.01:623][311]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:49:01)
+[2022.10.15-11.49.01:624][311]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.01:627][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003007s)
+[2022.10.15-11.49.01:627][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003076s)
+[2022.10.15-11.49.01:627][311]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.01:627][311]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.01:627][311]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.01:627][311]LogPlayLevel: PIE: World Init took: (0.000680s)
+[2022.10.15-11.49.01:663][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.10.15-11.49.01:666][311]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.49.01:666][311]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.49.01:666][311]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.49.01:667][311]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.49.01:667][311]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.49.01:667][311]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.49.01:669][311]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.49.01:711][311]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.49.01:711][311]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.49.01:711][311]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.49.01:711][311]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.49.01:711][311]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.10.15-11.49.01:711][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.10.15-11.49.01:713][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.10.15-11.49.01:713][311]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.10.15-11.49.01:713][311]LogInit: FAudioDevice initialized.
+[2022.10.15-11.49.01:713][311]LogAudio: Display: Audio Device (ID: 32) registered with world 'level1'.
+[2022.10.15-11.49.01:724][311]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.01:725][311]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.01
+[2022.10.15-11.49.01:725][311]LogWorld: Bringing up level for play took: 0.000946
+[2022.10.15-11.49.01:727][311]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.10.15-11.49.01:729][311]PIE: Server logged in
+[2022.10.15-11.49.01:729][311]PIE: Play in editor total start time 0,106 seconds.
+[2022.10.15-11.49.03:913][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:913][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:913][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:914][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:930][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:930][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:946][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:962][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:979][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.03:995][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:012][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:029][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:045][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:062][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:079][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:096][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:112][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:129][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:146][453]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:163][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:179][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:196][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:212][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:229][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:246][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:263][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:279][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:296][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:313][463]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:330][464]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:345][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:362][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:379][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:395][468]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:413][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:429][470]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:445][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:462][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:479][473]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:497][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:512][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:530][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:545][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:562][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:579][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:596][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:612][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:629][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:646][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:663][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:679][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:696][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:713][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:729][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:746][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:762][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:779][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:796][492]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:812][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:829][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:863][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:863][494]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.04:863][494]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.04:864][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.04:877][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.49.04:882][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.04:917][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.04:917][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.15-11.49.04:919][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.15-11.49.04:925][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.15-11.49.04:973][495]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.10.15-11.49.06:608][590]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.49.06:613][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.49.06:613][590]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:49:06)
+[2022.10.15-11.49.06:613][590]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.06:616][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003111s)
+[2022.10.15-11.49.06:617][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003187s)
+[2022.10.15-11.49.06:617][590]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.06:617][590]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.06:617][590]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.06:617][590]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2022.10.15-11.49.06:651][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.15-11.49.06:654][590]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.49.06:654][590]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.49.06:654][590]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.49.06:655][590]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.49.06:655][590]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.49.06:655][590]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.49.06:658][590]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.49.06:700][590]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.49.06:700][590]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.49.06:700][590]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.49.06:700][590]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.49.06:701][590]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.10.15-11.49.06:701][590]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.10.15-11.49.06:703][590]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.10.15-11.49.06:703][590]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.10.15-11.49.06:704][590]LogInit: FAudioDevice initialized.
+[2022.10.15-11.49.06:704][590]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.06:714][590]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.06:715][590]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.06
+[2022.10.15-11.49.06:716][590]LogWorld: Bringing up level for play took: 0.001019
+[2022.10.15-11.49.06:717][590]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.10.15-11.49.06:719][590]PIE: Server logged in
+[2022.10.15-11.49.06:719][590]PIE: Play in editor total start time 0,106 seconds.
+[2022.10.15-11.49.20:275][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:275][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:276][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:276][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:292][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:292][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:292][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:309][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:325][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:342][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:359][405]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:375][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:392][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:408][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:425][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:442][410]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:459][411]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:476][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:492][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:509][414]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:525][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:542][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:559][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:575][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:592][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:608][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:625][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:642][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:658][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:675][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:692][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:709][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:726][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:742][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:758][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:776][430]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:792][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:809][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:825][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:842][434]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:858][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:875][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:891][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:908][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:925][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:942][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:958][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:975][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.20:991][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:008][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:025][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:042][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:058][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:075][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:092][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:108][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:125][451]Cmd: RestartLevel
+[2022.10.15-11.49.21:126][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.21:141][452]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.49.21:141][452]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.49.21:141][452]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.21:142][452]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.21:143][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.21:180][452]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.21:185][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.15-11.49.21:189][452]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.21:192][452]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003121s)
+[2022.10.15-11.49.21:192][452]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003220s)
+[2022.10.15-11.49.21:192][452]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.21:192][452]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.21:192][452]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.21:193][452]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.21:193][452]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2022.10.15-11.49.21:193][452]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.21:194][452]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.21
+[2022.10.15-11.49.21:194][452]LogWorld: Bringing up level for play took: 0.000958
+[2022.10.15-11.49.21:194][452]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.49.21:195][452]LogLoad: Took 0.053923 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.49.23:740][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:740][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:740][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:741][605]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:757][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:757][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:757][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:774][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:791][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:806][609]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:823][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:840][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:857][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:874][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:890][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:907][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:924][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:941][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:958][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:974][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.23:990][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:006][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:023][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:040][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:057][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:073][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:090][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:107][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:124][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:140][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:157][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:174][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:191][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:207][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:223][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:240][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:257][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:274][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:290][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:307][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:324][640]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:340][641]Cmd: RestartLevel
+[2022.10.15-11.49.24:341][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.24:356][642]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.49.24:356][642]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.49.24:357][642]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.24:357][642]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.24:357][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.24:420][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.24:422][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.15-11.49.24:425][642]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.24:428][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002880s)
+[2022.10.15-11.49.24:428][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002963s)
+[2022.10.15-11.49.24:428][642]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.24:428][642]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.24:428][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.24:428][642]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.24:429][642]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2022.10.15-11.49.24:429][642]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.24:429][642]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.24
+[2022.10.15-11.49.24:430][642]LogWorld: Bringing up level for play took: 0.000897
+[2022.10.15-11.49.24:430][642]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.49.24:431][642]LogLoad: Took 0.074917 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.49.26:694][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:694][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:694][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:694][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:710][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:710][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.26:711][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.27:010][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.27:509][827]Cmd: RestartLevel
+[2022.10.15-11.49.27:526][828]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.49.27:526][828]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.49.27:526][828]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.27:527][828]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.27:527][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.27:598][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.27:601][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.15-11.49.27:604][828]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.27:607][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003632s)
+[2022.10.15-11.49.27:608][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003766s)
+[2022.10.15-11.49.27:608][828]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.27:608][828]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.27:608][828]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.27:608][828]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.27:609][828]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2022.10.15-11.49.27:609][828]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.27:610][828]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.27
+[2022.10.15-11.49.27:610][828]LogWorld: Bringing up level for play took: 0.000912
+[2022.10.15-11.49.27:610][828]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.49.27:611][828]LogLoad: Took 0.085255 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.49.31:679][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:679][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:679][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:679][ 72]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:695][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:695][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:696][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:712][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:728][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:746][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:762][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:779][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:795][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:812][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:829][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:846][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:862][ 83]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:879][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:896][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:912][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:929][ 87]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:945][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:961][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:979][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.31:996][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:012][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:029][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:045][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:063][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:079][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:096][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:113][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:128][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:145][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:162][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:178][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:195][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:212][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:228][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:245][106]Cmd: RestartLevel
+[2022.10.15-11.49.32:246][106]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.32:261][107]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.49.32:261][107]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.49.32:261][107]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.32:261][107]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.32:262][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.32:299][107]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.32:302][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.15-11.49.32:305][107]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.32:308][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002795s)
+[2022.10.15-11.49.32:308][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002894s)
+[2022.10.15-11.49.32:308][107]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.32:308][107]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.32:308][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.32:308][107]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.32:309][107]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2022.10.15-11.49.32:309][107]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.32:309][107]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.32
+[2022.10.15-11.49.32:310][107]LogWorld: Bringing up level for play took: 0.000812
+[2022.10.15-11.49.32:310][107]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.49.32:311][107]LogLoad: Took 0.049814 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.49.58:865][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:865][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:865][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:865][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:881][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:881][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:882][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:898][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:915][702]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.58:931][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.49.59:413][732]Cmd: RestartLevel
+[2022.10.15-11.49.59:430][733]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.49.59:430][733]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.49.59:430][733]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.59:430][733]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.49.59:432][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.49.59:492][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.49.59:498][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.15-11.49.59:502][733]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.49.59:507][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004148s)
+[2022.10.15-11.49.59:507][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.004338s)
+[2022.10.15-11.49.59:507][733]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.49.59:507][733]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.49.59:507][733]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.49.59:507][733]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.49.59:507][733]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2022.10.15-11.49.59:507][733]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.49.59:508][733]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.49.59
+[2022.10.15-11.49.59:508][733]LogWorld: Bringing up level for play took: 0.000762
+[2022.10.15-11.49.59:508][733]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.49.59:509][733]LogLoad: Took 0.079563 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.06:520][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:521][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:521][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:521][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:538][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:538][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:554][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:571][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:587][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:603][159]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:621][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:637][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:654][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:670][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:687][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:705][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:720][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:737][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:754][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:770][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:789][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:804][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:821][172]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:837][173]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:854][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:871][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:887][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:904][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:921][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:938][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:955][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:970][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.06:987][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:003][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:020][184]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:037][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:054][186]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:070][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:087][188]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:104][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:121][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:137][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:154][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:171][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:187][194]Cmd: RestartLevel
+[2022.10.15-11.50.07:188][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.07:203][195]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.50.07:204][195]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.50.07:204][195]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.07:204][195]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.07:205][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.07:241][195]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.50.07:246][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.10.15-11.50.07:249][195]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.07:252][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2022.10.15-11.50.07:252][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002739s)
+[2022.10.15-11.50.07:252][195]LogAudio: Display: Audio Device (ID: 33) registered with world 'level1'.
+[2022.10.15-11.50.07:252][195]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.07:252][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.07:253][195]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.07:253][195]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2022.10.15-11.50.07:253][195]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.07:254][195]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.07
+[2022.10.15-11.50.07:254][195]LogWorld: Bringing up level for play took: 0.000861
+[2022.10.15-11.50.07:254][195]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.50.07:255][195]LogLoad: Took 0.051732 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.16:373][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.16:373][741]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.16:374][741]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.16:374][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.16:389][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.50.16:394][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.16:429][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.16:429][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.15-11.50.16:431][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.15-11.50.16:439][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.15-11.50.16:486][742]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.10.15-11.50.18:711][873]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.50.18:717][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.50.18:717][873]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:50:18)
+[2022.10.15-11.50.18:718][873]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.18:720][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002655s)
+[2022.10.15-11.50.18:720][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002711s)
+[2022.10.15-11.50.18:720][873]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.18:720][873]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.18:721][873]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.18:721][873]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2022.10.15-11.50.18:757][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.15-11.50.18:759][873]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.10.15-11.50.18:759][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.50.18:759][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.50.18:759][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.50.18:760][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.50.18:760][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.50.18:760][873]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.50.18:760][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.50.18:760][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.50.18:760][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.50.18:760][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.50.18:760][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.50.18:762][873]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.50.18:803][873]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.50.18:804][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.50.18:804][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.50.18:804][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.50.18:804][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.10.15-11.50.18:804][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.10.15-11.50.18:806][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.10.15-11.50.18:806][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.10.15-11.50.18:806][873]LogInit: FAudioDevice initialized.
+[2022.10.15-11.50.18:806][873]LogAudio: Display: Audio Device (ID: 34) registered with world 'level1'.
+[2022.10.15-11.50.18:816][873]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.18:817][873]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.18
+[2022.10.15-11.50.18:817][873]LogWorld: Bringing up level for play took: 0.000866
+[2022.10.15-11.50.18:819][873]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2022.10.15-11.50.18:820][873]PIE: Server logged in
+[2022.10.15-11.50.18:821][873]PIE: Play in editor total start time 0,104 seconds.
+[2022.10.15-11.50.25:591][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:591][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:591][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:607][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:607][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:608][277]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.25:623][278]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.26:106][307]Cmd: RestartLevel
+[2022.10.15-11.50.26:123][308]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.50.26:123][308]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.50.26:123][308]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.26:124][308]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.26:124][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.26:161][308]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.50.26:164][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.10.15-11.50.26:167][308]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.26:170][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002775s)
+[2022.10.15-11.50.26:170][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.002862s)
+[2022.10.15-11.50.26:170][308]LogAudio: Display: Audio Device (ID: 34) registered with world 'level1'.
+[2022.10.15-11.50.26:170][308]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.26:170][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.26:170][308]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.26:171][308]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2022.10.15-11.50.26:171][308]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.26:171][308]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.26
+[2022.10.15-11.50.26:172][308]LogWorld: Bringing up level for play took: 0.000810
+[2022.10.15-11.50.26:172][308]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.50.26:173][308]LogLoad: Took 0.049496 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.31:201][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:202][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:202][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:203][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:218][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:218][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:234][612]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:250][613]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:268][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:285][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:300][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:317][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:333][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:351][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:368][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:384][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:400][622]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:417][623]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:435][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:452][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:467][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:484][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:501][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:518][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:535][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:551][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:567][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:583][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:600][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:617][635]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:634][636]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:650][637]Cmd: RestartLevel
+[2022.10.15-11.50.31:651][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.31:666][638]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.50.31:666][638]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.50.31:666][638]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.31:667][638]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.31:667][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.31:730][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.50.31:733][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.15-11.50.31:736][638]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.31:739][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003083s)
+[2022.10.15-11.50.31:739][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003194s)
+[2022.10.15-11.50.31:739][638]LogAudio: Display: Audio Device (ID: 34) registered with world 'level1'.
+[2022.10.15-11.50.31:739][638]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.31:739][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.31:740][638]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.31:740][638]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2022.10.15-11.50.31:740][638]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.31:741][638]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.31
+[2022.10.15-11.50.31:741][638]LogWorld: Bringing up level for play took: 0.001068
+[2022.10.15-11.50.31:742][638]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.50.31:745][638]LogLoad: Took 0.078381 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.34:005][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:005][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:006][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:006][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:022][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:039][776]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:055][777]Cmd: RestartLevel
+[2022.10.15-11.50.34:056][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.34:071][778]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.50.34:071][778]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.50.34:071][778]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.34:072][778]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.34:072][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.34:107][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.50.34:109][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.15-11.50.34:112][778]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.34:115][778]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003330s)
+[2022.10.15-11.50.34:115][778]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003465s)
+[2022.10.15-11.50.34:116][778]LogAudio: Display: Audio Device (ID: 34) registered with world 'level1'.
+[2022.10.15-11.50.34:116][778]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.34:116][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.34:117][778]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.34:117][778]LogPlayLevel: PIE: World Init took: (0.001700s)
+[2022.10.15-11.50.34:117][778]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.34:118][778]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.34
+[2022.10.15-11.50.34:118][778]LogWorld: Bringing up level for play took: 0.000802
+[2022.10.15-11.50.34:119][778]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.50.34:119][778]LogLoad: Took 0.047984 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.36:664][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:664][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:664][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:664][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:681][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:681][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:681][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:697][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:714][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:730][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:747][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:764][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:780][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:796][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:813][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:830][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:847][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:863][943]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:880][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:897][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:913][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:930][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:947][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:964][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:981][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.36:997][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:014][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:031][953]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:047][954]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:064][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:080][956]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:097][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:113][958]Cmd: RestartLevel
+[2022.10.15-11.50.37:114][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.37:130][959]LogNet: Browse: /Game/ThirdPerson/Maps/level1?restart
+[2022.10.15-11.50.37:130][959]LogLoad: LoadMap: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.50.37:130][959]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.37:130][959]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.37:131][959]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.37:187][959]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.50.37:190][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.10.15-11.50.37:192][959]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.37:195][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003321s)
+[2022.10.15-11.50.37:196][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003418s)
+[2022.10.15-11.50.37:196][959]LogAudio: Display: Audio Device (ID: 34) registered with world 'level1'.
+[2022.10.15-11.50.37:196][959]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.50.37:196][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.50.37:196][959]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.50.37:196][959]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2022.10.15-11.50.37:196][959]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.50.37:197][959]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.50.37
+[2022.10.15-11.50.37:197][959]LogWorld: Bringing up level for play took: 0.000901
+[2022.10.15-11.50.37:198][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.15-11.50.37:199][959]LogLoad: Took 0.069819 seconds to LoadMap(/Game/ThirdPerson/Maps/UEDPIE_0_level1)
+[2022.10.15-11.50.41:424][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.41:424][210]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.50.41:424][210]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.50.41:424][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.41:434][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.50.41:439][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.50.41:473][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.50.41:473][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.15-11.50.41:475][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.15-11.50.41:483][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.15-11.50.41:530][211]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2022.10.15-11.52.28:347][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.15-11.52.28:350][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/level1' took 0.038
+[2022.10.15-11.52.28:350][867]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/HUD/HudDeath] ([2] browsable assets)...
+[2022.10.15-11.52.28:353][867]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/HUD/HudDeath.HudDeath]
+[2022.10.15-11.52.28:353][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/HUD/HudDeath]
+[2022.10.15-11.52.28:360][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HUD/HudDeath_Auto4
+[2022.10.15-11.52.28:360][867]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath_Auto4DB875EA44B3BAF0DF5E48F99E2435712.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/Autosaves/Game/HUD/HudDeath_Auto4.uasset'
+[2022.10.15-11.52.28:361][867]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.10.15-11.52.46:065][450]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.52.46:072][450]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.52.46:072][450]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:52:46)
+[2022.10.15-11.52.46:072][450]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.46:075][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003166s)
+[2022.10.15-11.52.46:075][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003235s)
+[2022.10.15-11.52.46:075][450]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.52.46:075][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.52.46:076][450]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.52.46:076][450]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2022.10.15-11.52.46:111][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.15-11.52.46:112][450]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.52.46:112][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.52.46:112][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.52.46:112][450]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.52.46:112][450]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.52.46:113][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.52.46:115][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.52.46:156][450]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.52.46:156][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.52.46:156][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.52.46:156][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.52.46:157][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.10.15-11.52.46:157][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.10.15-11.52.46:158][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.10.15-11.52.46:158][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.10.15-11.52.46:158][450]LogInit: FAudioDevice initialized.
+[2022.10.15-11.52.46:158][450]LogAudio: Display: Audio Device (ID: 35) registered with world 'level1'.
+[2022.10.15-11.52.46:168][450]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.52.46:169][450]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.52.46
+[2022.10.15-11.52.46:170][450]LogWorld: Bringing up level for play took: 0.001239
+[2022.10.15-11.52.46:172][450]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2022.10.15-11.52.46:173][450]PIE: Server logged in
+[2022.10.15-11.52.46:174][450]PIE: Play in editor total start time 0,102 seconds.
+[2022.10.15-11.52.47:314][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.47:314][513]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.47:315][513]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.52.47:315][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.47:328][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.52.47:333][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.47:370][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.52.47:370][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.10.15-11.52.47:372][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.10.15-11.52.47:375][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.47:377][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.15-11.52.47:413][514]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2022.10.15-11.52.48:138][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.15-11.52.48:149][546]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.52.48:150][546]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1FCB842C04A296CE3C5C1C6B218FF1353.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.52.48:169][546]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.52.48:169][546]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.52.48:457][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.15-11.52.48:467][551]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.52.48:467][551]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1718F42814938F72015529AA2C44CEEDE.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.52.48:488][551]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.52.48:488][551]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.52.48:658][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.15-11.52.48:667][553]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.52.48:668][553]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1A073BDE54E53BAFF8A5C78A66D0276FA.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.52.48:687][553]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.52.48:687][553]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.52.49:846][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.15-11.52.49:859][611]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.52.49:859][611]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level164E4044B4117363CAE26B1A23AFFEFBA.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.52.49:880][611]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.52.49:880][611]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.52.51:379][700]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.52.51:385][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.52.51:385][700]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:52:51)
+[2022.10.15-11.52.51:385][700]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.51:389][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003639s)
+[2022.10.15-11.52.51:389][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003746s)
+[2022.10.15-11.52.51:389][700]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.52.51:389][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.52.51:390][700]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.52.51:390][700]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2022.10.15-11.52.51:425][700]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.15-11.52.51:427][700]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.52.51:427][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.52.51:427][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.52.51:427][700]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.52.51:427][700]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.52.51:427][700]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.52.51:429][700]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.52.51:471][700]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.52.51:471][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.52.51:471][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.52.51:471][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.52.51:472][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.10.15-11.52.51:472][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.10.15-11.52.51:473][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.10.15-11.52.51:473][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.10.15-11.52.51:474][700]LogInit: FAudioDevice initialized.
+[2022.10.15-11.52.51:474][700]LogAudio: Display: Audio Device (ID: 36) registered with world 'level1'.
+[2022.10.15-11.52.51:489][700]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.52.51:490][700]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.52.51
+[2022.10.15-11.52.51:490][700]LogWorld: Bringing up level for play took: 0.000875
+[2022.10.15-11.52.51:492][700]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.10.15-11.52.51:494][700]PIE: Server logged in
+[2022.10.15-11.52.51:494][700]PIE: Play in editor total start time 0,11 seconds.
+[2022.10.15-11.52.52:717][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:717][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:717][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:717][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:733][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:750][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:767][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.52:783][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.53:745][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.53:745][829]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.53:745][829]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.52.53:745][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.53:757][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.52.53:762][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.53:797][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.53:797][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.15-11.52.53:799][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.15-11.52.53:806][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.15-11.52.53:841][830]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.10.15-11.52.56:155][966]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.52.56:160][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.52.56:160][966]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:52:56)
+[2022.10.15-11.52.56:161][966]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.56:164][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003331s)
+[2022.10.15-11.52.56:164][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003417s)
+[2022.10.15-11.52.56:164][966]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.52.56:164][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.52.56:164][966]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.52.56:165][966]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2022.10.15-11.52.56:201][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.10.15-11.52.56:203][966]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.52.56:203][966]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.52.56:203][966]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.52.56:204][966]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.52.56:204][966]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.52.56:204][966]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.52.56:205][966]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.52.56:243][966]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.52.56:243][966]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.52.56:243][966]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.52.56:243][966]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.52.56:243][966]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.10.15-11.52.56:243][966]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.10.15-11.52.56:245][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.10.15-11.52.56:245][966]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.10.15-11.52.56:245][966]LogInit: FAudioDevice initialized.
+[2022.10.15-11.52.56:245][966]LogAudio: Display: Audio Device (ID: 37) registered with world 'level1'.
+[2022.10.15-11.52.56:257][966]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.52.56:258][966]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.52.56
+[2022.10.15-11.52.56:258][966]LogWorld: Bringing up level for play took: 0.000982
+[2022.10.15-11.52.56:260][966]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.10.15-11.52.56:262][966]PIE: Server logged in
+[2022.10.15-11.52.56:263][966]PIE: Play in editor total start time 0,102 seconds.
+[2022.10.15-11.52.57:615][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:615][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:615][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:616][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:631][ 45]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:648][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:665][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.57:682][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.58:704][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.58:704][108]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.52.58:704][108]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.52.58:704][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.58:715][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.52.58:720][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.52.58:754][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.52.58:754][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.10.15-11.52.58:756][108]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.10.15-11.52.58:763][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.15-11.52.58:794][109]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.15-11.53.00:803][227]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.53.00:808][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.53.00:808][227]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:53:00)
+[2022.10.15-11.53.00:808][227]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.53.00:811][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003042s)
+[2022.10.15-11.53.00:811][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003115s)
+[2022.10.15-11.53.00:811][227]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.53.00:811][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.53.00:812][227]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.53.00:812][227]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.10.15-11.53.00:847][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.10.15-11.53.00:849][227]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.53.00:849][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.53.00:849][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.53.00:850][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.53.00:850][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.53.00:850][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.53.00:851][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.53.00:891][227]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.53.00:892][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.53.00:892][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.53.00:892][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.53.00:892][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.10.15-11.53.00:892][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.10.15-11.53.00:894][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.10.15-11.53.00:894][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.10.15-11.53.00:894][227]LogInit: FAudioDevice initialized.
+[2022.10.15-11.53.00:894][227]LogAudio: Display: Audio Device (ID: 38) registered with world 'level1'.
+[2022.10.15-11.53.00:906][227]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.53.00:907][227]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.53.00
+[2022.10.15-11.53.00:907][227]LogWorld: Bringing up level for play took: 0.000852
+[2022.10.15-11.53.00:909][227]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2022.10.15-11.53.00:910][227]PIE: Server logged in
+[2022.10.15-11.53.00:910][227]PIE: Play in editor total start time 0,103 seconds.
+[2022.10.15-11.53.02:263][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:263][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:263][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:263][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:280][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:280][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:280][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:296][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:313][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:329][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:346][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:363][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:379][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:396][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:412][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:429][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:445][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:462][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:479][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:496][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:512][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:529][321]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:546][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:563][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:579][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:596][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:613][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:629][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:646][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:663][329]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:680][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:696][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:713][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:730][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:746][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:762][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:779][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:795][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:812][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:829][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:845][340]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:862][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:879][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:896][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:913][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:929][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:946][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:963][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:979][348]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.02:996][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:013][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:029][351]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:046][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:063][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:079][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:096][355]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:113][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:164][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:164][356]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.53.03:164][356]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.53.03:164][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.53.03:177][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.53.03:181][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.53.03:215][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.53.03:216][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.15-11.53.03:217][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.15-11.53.03:224][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.15-11.53.03:256][357]LogPlayLevel: Display: Destroying online subsystem :Context_54

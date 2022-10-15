@@ -2784,3 +2784,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.15-00.00.50:676][920]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/mathisdev.mathisdev
 [2022.10.15-00.00.52:089][  1]BlueprintLog: New page: Compile BP_Ground
 [2022.10.15-00.00.52:165][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.15-00.08.44:452][966]LogSlate: Window 'BP_Character' being destroyed
+[2022.10.15-00.08.44:458][966]LogSlate: Window 'BP_Character' being destroyed
+[2022.10.15-00.08.44:464][966]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-00.08.44:464][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-00.08.44:567][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.15-00.08.44:568][966]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-00.08.44:568][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-00.08.44:635][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.10.15-00.08.44:636][966]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-00.08.44:636][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-00.08.45:757][ 31]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.15-00.08.45:757][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-00.09.14:657][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube/BP_Ground" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset" SILENT=true
+[2022.10.15-00.09.14:674][545]LogSavePackage: Moving output files for package: /Game/Cube/BP_Ground
+[2022.10.15-00.09.14:674][545]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/BP_GroundF7E718B640C91BD8ADFB86B30D4E09F3.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/Cube/BP_Ground.uasset'
+[2022.10.15-00.09.14:689][545]AssetCheck: New page: Asset Save: BP_Ground
+[2022.10.15-00.09.14:689][545]LogContentValidation: Display: Validating Blueprint /Game/Cube/BP_Ground.BP_Ground
+[2022.10.15-00.09.15:456][591]LogSlate: Window 'BP_Ground' being destroyed
+[2022.10.15-00.09.15:463][591]LogSlate: Window 'BP_Ground' being destroyed
+[2022.10.15-00.09.15:469][591]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-00.09.15:469][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-00.10.13:908][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.15-00.10.13:917][813]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/mathisdev
+[2022.10.15-00.10.13:918][813]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/mathisdevB409DF3A47D7453E5E51328432D75B60.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/mathisdev.umap'
+[2022.10.15-00.10.13:938][813]AssetCheck: New page: Asset Save: mathisdev
+[2022.10.15-00.10.13:938][813]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/mathisdev.mathisdev

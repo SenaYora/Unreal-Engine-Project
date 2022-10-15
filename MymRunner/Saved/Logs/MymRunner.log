@@ -5297,3 +5297,57 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.15-11.56.20:281][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.10.15-11.56.20:287][912]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
 [2022.10.15-11.56.20:287][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.56.46:791][485]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Character.BP_Character
+[2022.10.15-11.56.46:791][485]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.56.51:562][732]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.10.15-11.56.53:046][820]LogViewport: Scene viewport resized to 1033x699, mode Windowed.
+[2022.10.15-11.58.11:586][346]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.11:586][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.58.11:593][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.58.12:007][346]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.15-11.58.12:007][346]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.15-11.58.17:603][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.17:611][671]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.17:611][671]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath64346F82457A1E88FB9C6C8CF1F725EB.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.17:621][671]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.17:621][671]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.25:175][123]BlueprintLog: New page: Compile HudDeath
+[2022.10.15-11.58.25:245][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.15-11.58.25:785][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.25:793][145]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.25:793][145]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeathFB72268E4E9281D0449134BA078253E5.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.25:806][145]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.25:806][145]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.26:064][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.26:072][154]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.26:073][154]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath21FABAFA46933701F08A3E819768D4F1.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.26:084][154]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.26:084][154]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.26:460][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.26:466][171]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.26:467][171]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath4BA04ABF4CCC176A9C509E9A5C005ACB.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.26:476][171]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.26:476][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.26:816][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.26:822][185]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.26:823][185]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath1B37D69F4355660140B061A46FD8582C.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.26:835][185]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.26:835][185]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.27:045][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.27:052][192]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.27:053][192]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath2CF7A837443194109C7B19B2096A1D2E.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.27:062][192]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.27:062][192]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.27:433][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HUD/HudDeath" FILE="../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset" SILENT=true
+[2022.10.15-11.58.27:441][208]LogSavePackage: Moving output files for package: /Game/HUD/HudDeath
+[2022.10.15-11.58.27:441][208]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/HudDeath34CC4F494D64D366032FB9A74133A200.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/HUD/HudDeath.uasset'
+[2022.10.15-11.58.27:455][208]AssetCheck: New page: Asset Save: HudDeath
+[2022.10.15-11.58.27:455][208]LogContentValidation: Display: Validating WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.58.28:869][292]LogSlate: Window 'HudDeath' being destroyed
+[2022.10.15-11.58.28:874][292]LogSlate: Window 'HudDeath' being destroyed
+[2022.10.15-11.58.28:878][292]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.58.28:878][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.58.28:960][292]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.58.28:960][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.58.28:970][292]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.58.28:970][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated

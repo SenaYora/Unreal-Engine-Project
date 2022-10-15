@@ -5173,3 +5173,127 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.15-11.53.03:217][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
 [2022.10.15-11.53.03:224][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2022.10.15-11.53.03:256][357]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2022.10.15-11.55.09:458][287]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube/BP_Character.BP_Character
+[2022.10.15-11.55.09:458][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.55.24:209][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.15-11.55.24:219][630]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.24:220][630]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level16D2BCFA04CE040679E4039A2ED903604.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.24:240][630]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.24:240][630]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.24:545][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.10.15-11.55.24:556][640]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.24:557][640]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level169C530F54D4E8863F51B5FB464DF9422.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.24:580][640]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.24:580][640]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.24:765][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.15-11.55.24:774][642]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.24:775][642]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1EB1254FD498B4C4C3A88DF94BB7D3BE1.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.24:796][642]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.24:796][642]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.24:992][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.15-11.55.25:003][645]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.25:003][645]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level13D7262BA461BF3EEBC677C8D9030448A.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.25:024][645]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.25:024][645]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.25:917][697]LogSlate: Window 'BP_Character' being destroyed
+[2022.10.15-11.55.25:923][697]LogSlate: Window 'BP_Character' being destroyed
+[2022.10.15-11.55.25:932][697]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.55.25:933][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.55.25:941][697]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.55.25:941][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.55.26:016][697]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.55.26:016][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.55.26:024][697]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.55.26:024][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.55.26:105][697]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.55.26:105][697]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.55.58:779][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.15-11.55.58:814][ 94]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.58:814][ 94]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level10FB43208469BEB932A13098B8D1B6465.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.58:845][ 94]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.58:845][ 94]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.59:098][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.10.15-11.55.59:108][ 99]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.59:109][ 99]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level123F933224CA6E7AFB51442BCF6DD0775.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.59:137][ 99]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.59:137][ 99]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.55.59:614][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.15-11.55.59:624][116]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.55.59:625][116]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1618FC2784F4030BA4A2212BA21F54707.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.55.59:658][116]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.55.59:658][116]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.56.00:326][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.15-11.56.00:337][145]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.56.00:337][145]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1E7C457444822A111A3A4AB8F9F3B4B30.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.56.00:376][145]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.56.00:376][145]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.56.00:733][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.15-11.56.00:743][155]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/level1
+[2022.10.15-11.56.00:743][155]LogSavePackage: Moving '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Saved/level1FE87D9E648903B6E0C180BA3D190CB22.tmp' to '../../../../../../Users/icima/Documents/GitHub/Unreal-Engine-Project/MymRunner/Content/ThirdPerson/Maps/level1.umap'
+[2022.10.15-11.56.00:771][155]AssetCheck: New page: Asset Save: level1
+[2022.10.15-11.56.00:771][155]LogContentValidation: Display: Validating World /Game/ThirdPerson/Maps/level1.level1
+[2022.10.15-11.56.08:660][277]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.15-11.56.08:666][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.15-11.56.08:666][277]PIE: New page: PIE session: level1 (15 oct. 2022 à 15:56:08)
+[2022.10.15-11.56.08:667][277]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.56.08:670][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003062s)
+[2022.10.15-11.56.08:670][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/level1.level1 to /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 (0.003126s)
+[2022.10.15-11.56.08:670][277]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.15-11.56.08:670][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.56.08:670][277]LogAIModule: Creating AISystem for world level1
+[2022.10.15-11.56.08:670][277]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2022.10.15-11.56.08:693][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.15-11.56.08:694][277]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.15-11.56.08:694][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.15-11.56.08:694][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.15-11.56.08:695][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.15-11.56.08:695][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.15-11.56.08:695][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.15-11.56.08:697][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.15-11.56.08:740][277]LogAudioMixer: Display: Using Audio Hardware Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2022.10.15-11.56.08:740][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.15-11.56.08:740][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.15-11.56.08:740][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.15-11.56.08:741][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.10.15-11.56.08:741][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.10.15-11.56.08:743][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.10.15-11.56.08:743][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.10.15-11.56.08:743][277]LogInit: FAudioDevice initialized.
+[2022.10.15-11.56.08:743][277]LogAudio: Display: Audio Device (ID: 39) registered with world 'level1'.
+[2022.10.15-11.56.08:755][277]LogLoad: Game class is 'CharacterGameMode_C'
+[2022.10.15-11.56.08:756][277]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_level1.level1 up for play (max tick rate 60) at 2022.10.15-13.56.08
+[2022.10.15-11.56.08:757][277]LogWorld: Bringing up level for play took: 0.000949
+[2022.10.15-11.56.08:758][277]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2022.10.15-11.56.08:760][277]PIE: Server logged in
+[2022.10.15-11.56.08:761][277]PIE: Play in editor total start time 0,094 seconds.
+[2022.10.15-11.56.12:963][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.56.12:964][524]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_level1
+[2022.10.15-11.56.12:964][524]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.56.12:964][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.56.12:974][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.15-11.56.12:979][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.56.13:000][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.15-11.56.13:000][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.15-11.56.13:002][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.15-11.56.13:005][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.15-11.56.13:009][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.15-11.56.13:056][525]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2022.10.15-11.56.15:526][668]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD/HudDeath.HudDeath
+[2022.10.15-11.56.15:527][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.56.15:534][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.15-11.56.16:016][668]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.15-11.56.16:016][668]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.15-11.56.18:053][785]BlueprintLog: New page: Compile HudDeath
+[2022.10.15-11.56.18:098][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.15-11.56.20:253][912]LogSlate: Window 'HudDeath' being destroyed
+[2022.10.15-11.56.20:260][912]LogSlate: Window 'HudDeath' being destroyed
+[2022.10.15-11.56.20:281][912]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.56.20:281][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.15-11.56.20:287][912]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.10.15-11.56.20:287][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
